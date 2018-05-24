@@ -1,0 +1,11 @@
+name: FpsPlugin
+version: 1.0
+author: Philipid3s
+
+main: fr.philipid3s.FpsPlugin.FpsPlugin
+
+commands:
+ kit:
+  description: donne un kit au joueur
+ zombie:
+  description: spawn un mob custom
